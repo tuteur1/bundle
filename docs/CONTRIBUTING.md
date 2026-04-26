@@ -1,0 +1,1 @@
+/Users/mohamed/Downloads/gemini-cli-main/CONTRIBUTING.md
